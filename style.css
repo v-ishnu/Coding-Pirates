@@ -1777,5 +1777,20 @@ background-size:100%;
 }
 }
 
+@media (min-width: 1024px) {
+  .new_footer_top .f-title {
+    text-align: center;
+  }
+
+  .list-unstyled{
+    text-align: center;
+  }
+  
+  .f_social_icon{
+    text-align:center;
+  }
+  
+}
+
 /*************footer End*****************/
 
